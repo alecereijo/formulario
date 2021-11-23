@@ -1,1 +1,4 @@
-Abrimos laragon y creamos nuestro sitio web 
+A partir del ejercicio de formulario, comprobe si era accesible para el usuario inspeccionando el ejercicio en el navegador;
+Una vez abri el inspeccionador presionamos en el icono  >> y ahi pulsamos en el último elemento, lighthouse.
+El siguiente paso es ir al apartado categorias y dejar solo marcado lo que vamos a evaluar ahora que es la accesibilidad de la pagina.
+Por ultimo le damos a generate report y a continuación nos mostrara el porcentaje de accesibilidad que tiene nuestra pagina, en este ejercicio consegui una accesibilidad del 100% mediante textos no repetitivos y claros para el usuario.
